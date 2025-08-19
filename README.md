@@ -23,12 +23,13 @@
 
 🛡️ сообщение с результатом анализа.
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - --  - -- - - -
-###Главное меню
+### Главное меню
 <img width="1220" height="982" alt="image" src="https://github.com/user-attachments/assets/b851b3b3-20f4-4d63-8b51-c051332ebef2" />
 <img width="1216" height="377" alt="image" src="https://github.com/user-attachments/assets/7b884afa-b29e-46ce-b2e8-4eba8c8f4703" />
 <img width="654" height="132" alt="image" src="https://github.com/user-attachments/assets/220e0820-ec92-4877-8ace-7782ce774903" />
 
-###Проверка файла
+### Проверка файла
+
 <img width="450" height="320" alt="image" src="https://github.com/user-attachments/assets/e2041c6d-f78c-48d4-a242-128898c6cd88" />
 
 
