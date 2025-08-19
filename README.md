@@ -36,6 +36,8 @@ pip install -r requirements.txt
     Разработчик: oli3djon
     Поддержка: пишите в Issues или в Telegram
 
+🥢 🥢 🥢 🥢🥢 🥢 🥢 🥢🥢 🥢 🥢 🥢🥢 🥢 🥢 🥢🥢 🥢 🥢 🥢
+
 
 
 
